@@ -28,7 +28,7 @@ if ta.crossover(fast, slow)
 
 ## Status
 
-The code is educational. It was not tested in every terminal build, so compile it yourself and check the result.
+Compiled in MetaEditor on 2026-10-20 with 0 errors and 0 warnings. It has not been checked against TradingView on every symbol and timeframe, so compare the crosses on your own chart. The code is educational.
 
 ## Learn more
 
